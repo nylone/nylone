@@ -2,9 +2,13 @@
 
 - 💬 **Ask me about**: why I like Lua :)
 - 📫 **How to reach me**: you probably shouldn't
-- ⚡ **Fun fact**: I have crippling dependencies :/
 
-### Also good luck making sense of any of my ✨ _commits_ ✨
+### Fun fact:
+
+![my gravatar](https://s.gravatar.com/avatar/96d7bbf53d048ecc2973674f6808b2e8?s=80 "My avatar")
+
+this should be my avatar but github refuses to load it from gravatar. Please help :(
+
 <!--
 **nylone/nylone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
