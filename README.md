@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💬 **Ask me about**: why I like Lua :)
+- 📫 **How to reach me**: you probably shouldn't
+- ⚡ **Fun fact**: I have crippling dependencies :/
+
+### Also good luck making sense of any of my ✨ _commits_ ✨
 <!--
 **nylone/nylone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
